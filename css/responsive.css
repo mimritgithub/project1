@@ -1,0 +1,376 @@
+
+
+@media (min-width: 279px) and (max-width: 319px){
+    /* css start */
+    .header .container-fluid .navbar-brand h2 {
+        font-size: 100%;
+        font-weight: bolder;
+    }
+    .slider .inner-slider h1 {
+        font-size: 40px;
+        font-weight: 800;
+        line-height: 1.7em;
+        letter-spacing: 3px;
+        color: #fff;
+    }
+    .about .second-inner h6 {
+        text-decoration: #333333;
+        text-transform: uppercase;
+        background: #F6D2CA;
+        color: #F62F08 !important;
+        padding-left: 1px;
+        text-align: center;
+        display: block;
+    }
+    .about .second-inner h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 1.2em;
+        text-align: center;
+    }
+    .counter-box1 .fa-sharp {
+        font-size: 50px;
+        font-weight: 600;
+        color: #08c;
+    }
+    .second-inner .counter-box1 h4 {
+        color: #F3300A;
+        background: #f5adad;
+        font-size: 13px;
+        display: initial;
+    }
+    .counter-box2 .fa {
+        font-size: 50px;
+        color: #08c;
+    }
+    .second-inner .counter-box2 h4 {
+        color: #F3300A;
+        background: #f5adad;
+        font-size: 13px;
+        display: initial;
+    }
+    .about .second-inner h1 {
+        font-size: 35px;
+        font-weight: 700;
+        line-height: 1.2em;
+    }
+    .inner-img1 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-1.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 0px 0px 10px;
+    }
+    .inner-img2 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-2.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 0px 0px 10px;
+    }
+    .inner-img3 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-3.jpg) no-repeat center;
+        background: cover;
+        padding-top: 220px;
+        text-align: center;
+        margin: 0px 0px 10px;
+    }
+    .Appointment .fst {
+        font-size: 40px;
+        font-weight: 700;
+        padding: 0px 0px 20px;
+        color: #fff;
+    }
+
+    .open-hours .hours-text {
+        /* padding: 60px 0px 60px 60px;
+        margin: 130px 0px 0px -120px; */
+        background-color: #FEF1EF !important;
+        text-align: center;
+    }
+    .open-hours .hours-text h1 {
+        font-size: 40px;
+        font-weight: 700;
+        padding-left: inherit;
+    }
+    .open-hours .hours-text p {
+        font-size: 16px;
+        font-weight: 400;
+        color: #757575;
+        padding: inherit;
+    }
+    .list-inline {
+        padding-left: 0;
+        list-style: none;
+        padding: revert;
+    }
+    .pricing .second-pricing h2 {
+        font-size: 40px;
+        font-weight: 800;
+        text-align: center;
+        color: #0c0000b1;
+    }
+    .pricing .second-pricing h1 {
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .team .inner-team{
+        padding: 0px 0px 10px 0px;
+    }
+    .Testimonial .second-Testimonial {
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .Testimonial .second-Testimonial h1 {
+        font-size: 40px;
+        font-weight: 800;
+        line-height: 1.7em;
+    }
+    h1 {
+        font-size: calc(1.375rem + 1.5vw);
+        text-align: center;
+    }
+
+    /* css end */
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+    /* css start */
+    .header .container-fluid .navbar-brand h2 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .slider .inner-slider h4 {
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 2px;
+        color: #fff;
+    }
+    .slider .inner-slider h1 {
+        font-size: 35px;
+        font-weight: bold;
+        line-height: 1.5em;
+        letter-spacing: 2px;
+        color: #fff;
+    }
+    .about .second-inner h1 {
+        font-size: 30px;
+        line-height: 1.2em;
+        font-weight: 700 !important;
+    }
+    .counter-box1 .fa-sharp {
+        font-size: 70px;
+        font-weight: 700;
+        color: #08c;
+    }
+    .second-inner .counter-box1 h4 {
+        color: #F3300A;
+        background: #f5adad;
+        font-size: 12px;
+    }
+    .counter-box2 .fa {
+        font-size: 70px;
+        color: #08c;
+    }
+    .second-inner .counter-box2 h4 {
+        color: #F3300A;
+        background: #f5adad;
+        font-size: 14px;
+    }
+    .service .inner-service h6 {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 1.4em;
+        color: #F3300A;
+        background: #f5adad;
+    }
+    .service .inner-service h2 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 1.2em;
+    }
+    .inner-img2 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-2.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 10px 0px 10px 0px;
+    }
+    .inner-img4 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-4.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 10px 0px 0px 0px;
+    }
+    .Appointment .fst {
+        font-size: 25px;
+        font-weight: 700;
+        padding: 0px 0px 20px;
+        color: #fff;
+    }
+    .Appointment .first {
+        margin: 0px 0px 0px 0px;
+      }
+    .open-hours .hours-text h6 {
+        font-size: 16px;
+        font-weight: 400;
+        display: inline-block;
+        background: #F13910;
+        color: #fff;
+        padding-left: 60px;
+    }
+    .pricing .second-pricing h2 {
+        font-size: 40px;
+        font-weight: 900;
+        text-align: center;
+        color: #0c0000b1;
+    }
+    .pricing .second-pricing h1 span {
+        font-size: 50px;
+        font-weight: 800;
+        text-align: center;
+    }
+    .Testimonial .second-Testimonial h1 {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 1.3em;
+    }
+    .Testimonial .second-Testimonial .cl1 .qut {
+        height: 40px;
+        width: 30px;
+        margin: 0px 0px 0px 25px;
+    }
+    .Testimonial .second-Testimonial .cl1 p {
+        font-size: 16px;
+        font-weight: 400;
+        color: #757575;
+    }
+    .Testimonial .second-Testimonial .cl1 .ims {
+        height: 40px;
+        width: 30px;
+        margin: 0px 0px 0px 25px;
+    }
+    .Testimonial .second-Testimonial .cl1 h5 {
+        font-size: 15px;
+        font-weight: 400;
+        color: #ac3d31;
+    }
+    .footer .first-footer h1 span {
+        color: #F13910;
+
+    }
+    .footer .first-footer p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.4em;
+        padding: 0px 0px 0px 10px;
+    }
+    .footer .col-sm-12 .w-100 .input-group .btn {
+        position: relative;
+        z-index: 2;
+        height: 86px;
+        width: 80%;
+    }
+
+    .Testimonial .second-Testimonial {
+        text-align: left;
+        padding: 20px;
+    }
+    .footer .first-footer {
+        color: #dec6c6;
+        padding: 0px 0px 20px;
+    }
+    .footer .secondary-footer {
+        text-align: center;
+        padding: 20px;
+    }
+    .open-hours .hours-text {
+        padding: 60px 0px 0px 0px;
+        margin: 130px 0px 0px 0px;
+        background-color: #FEF1EF !important;
+    }
+    
+    .footer .col-sm-12 .w-100 .input-group {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+        width: 100%;
+        padding: 0px 0px 0px 20px;
+    }
+    .footer .col-sm-12 .w-100 .input-group .form-control{
+        padding: 5px;
+    }
+     /* css end */
+}
+
+@media (min-width: 481px) and (max-width: 769px){
+    /* css start */
+    
+   /* css end */
+}
+
+
+
+@media (min-width: 770px) and (max-width: 1024px){
+    /* css start */
+    .inner-img1 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-1.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 0px 0px 10px;
+    }
+    .inner-img2 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-2.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 10px 0px 10px;
+    }
+    .inner-img3 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-3.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 10px 0px 10px;
+    }
+    .inner-img4 {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url(../images/service-4.jpg) no-repeat center;
+        padding-top: 220px;
+        text-align: center;
+        margin: 10px 0px;
+    }
+
+    .open-hours .hours-text {
+        padding: 60px 0px 60px 60px;
+        margin: 130px 0px 0px 20px;
+        background-color: #FEF1EF !important;
+    }
+
+    /* css end */
+}
+
